@@ -16,3 +16,4 @@ By default, all exceptions other than HTTPResponse or HTTPError will result in a
 .. _Bottle: http://bottlepy.org/docs/stable/
 .. _`Google App Engine`: https://cloud.google.com/products/
 .. _adapter: http://bottlepy.org/docs/stable/deployment.html#google-appengine
+ 
